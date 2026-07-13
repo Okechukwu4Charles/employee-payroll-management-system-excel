@@ -22,6 +22,7 @@ This project demonstrates the use of Excel formulas, data analysis techniques, a
 ### Payroll Dashboard
 
 ![Payroll Dashboard](EPMS_Dashboard.png) 
+![Payroll Dashboard](EPMS_Dashboard2.png)
 
 ### Payroll Worksheet
 
