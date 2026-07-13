@@ -21,11 +21,13 @@ This project demonstrates the use of Excel formulas, data analysis techniques, a
 
 ### Payroll Dashboard
 
-![Payroll Dashboard](images/dashboard.png)
+![Payroll Dashboard](EPMS_Dashboard.png) 
 
 ### Payroll Worksheet
 
-![Payroll Worksheet](images/payroll-system.png)
+![Payroll Worksheet](EPMS_1.png)
+![Payroll Worksheet](EPMS_2.png)
+
 
 ---
 
@@ -82,20 +84,6 @@ The dashboard includes:
 - Dashboard Design
 - Data Visualization
 - Financial Calculations
-
----
-
-## 📂 Project Structure
-
-```
-Employee-Payroll-System/
-│
-├── Payroll Project.xlsx
-├── README.md
-└── images/
-    ├── dashboard.png
-    └── payroll-system.png
-```
 
 ---
 
