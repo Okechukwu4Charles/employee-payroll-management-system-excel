@@ -126,8 +126,8 @@ This dashboard helps answer questions such as:
 B.Tech. Industrial Mathematics  
 Aspiring Data Analyst | Data Science Enthusiast
 
-GitHub: https://github.com/Okechukwu4Charles 
-LinkedIn: https://www.linkedin.com/in/okechukwu-charles
+- GitHub: https://github.com/Okechukwu4Charles 
+- LinkedIn: https://www.linkedin.com/in/okechukwu-charles
 
 ---
 
